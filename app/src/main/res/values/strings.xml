@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string-array name="question_text">
+        <item>Canberra is the capital of Australia</item>
+        <item>Madrid is the capital of Spain</item>
+        <item>Canberra is the capital of Spain</item>
+        <item>Madrid is the capital of Australia</item>
+    </string-array>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+</resources>
